@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  DLL.cpp
+c:\users\lenovo\desktop\marina lab 13 var 6\dll\dll.cpp(34): warning C4312: приведение типов: преобразование из "BOOL" в "char **" большего размера
+  dllmain.cpp
+     Создается библиотека C:\Users\Lenovo\Desktop\Marina lab 13 var 6\DLL\x64\Debug\DLL.lib и объект C:\Users\Lenovo\Desktop\Marina lab 13 var 6\DLL\x64\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\Lenovo\Desktop\Marina lab 13 var 6\DLL\x64\Debug\DLL.dll
